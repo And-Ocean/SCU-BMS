@@ -1,4 +1,4 @@
-package com.example.scu_bms_server;
+package com.example.scubmsserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

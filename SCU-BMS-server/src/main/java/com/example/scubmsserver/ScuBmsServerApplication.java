@@ -1,4 +1,4 @@
-package com.example.scu_bms_server;
+package com.example.scubmsserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
